@@ -1,0 +1,1 @@
+text = 'I am a function in my_module.py'
